@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "def", "fun", "define"],
+        "answer": "def"
+    },
+    {
+        "question": "What is the output of: print(2 ** 3)?",
+        "options": ["6", "8", "9", "5"],
+        "answer": "8"
+    },
+    {
+        "question": "Which data type is used to store True or False?",
+        "options": ["int", "str", "bool", "float"],
+        "answer": "bool"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "options": ["//", "#", "/*", "--"],
+        "answer": "#"
+    },
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": [".pt", ".python", ".py", ".p"],
+        "answer": ".py"
+    },
+    {
+        "question": "Which function is used to take input from user?",
+        "options": ["get()", "input()", "scan()", "read()"],
+        "answer": "input()"
+    },
+    {
+        "question": "What is the output of: print(len('Python'))?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "6"
+    },
+    {
+        "question": "Which data type is immutable?",
+        "options": ["list", "dictionary", "set", "tuple"],
+        "answer": "tuple"
+    },
+    {
+        "question": "Which statement is used to handle exceptions?",
+        "options": ["try-except", "if-else", "for-while", "switch"],
+        "answer": "try-except"
+    },
+    {
+        "question": "Which loop is used to iterate over a sequence?",
+        "options": ["for", "while", "loop", "repeat"],
+        "answer": "for"
+    },
+    {
+        "question": "What is the output of: print(10 // 3)?",
+        "options": ["3.3", "3", "4", "3.0"],
+        "answer": "3"
+    },
+    {
+        "question": "Which method adds an item to a list?",
+        "options": ["add()", "append()", "insert()", "push()"],
+        "answer": "append()"
+    },
+    {
+        "question": "What is the output of: print(type(5))?",
+        "options": ["int", "<class 'int'>", "integer", "type int"],
+        "answer": "<class 'int'>"
+    },
+    {
+        "question": "Which keyword is used to create a class?",
+        "options": ["class", "define", "object", "struct"],
+        "answer": "class"
+    },
+    {
+        "question": "What is the output of: print(3 == 3.0)?",
+        "options": ["True", "False", "Error", "None"],
+        "answer": "True"
+    },
+    {
+        "question": "Which function converts string to integer?",
+        "options": ["str()", "int()", "float()", "bool()"],
+        "answer": "int()"
+    },
+    {
+        "question": "What is the output of: print('Hello' + 'World')?",
+        "options": ["HelloWorld", "Hello World", "Error", "WorldHello"],
+        "answer": "HelloWorld"
+    },
+    {
+        "question": "Which data structure stores key-value pairs?",
+        "options": ["list", "tuple", "dictionary", "set"],
+        "answer": "dictionary"
+    },
+    {
+        "question": "Which keyword is used to exit a loop?",
+        "options": ["stop", "break", "exit", "return"],
+        "answer": "break"
+    },
+    {
+        "question": "What is the output of: print(bool(0))?",
+        "options": ["True", "False", "0", "Error"],
+        "answer": "False"
+    }
+]
